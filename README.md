@@ -1,8 +1,12 @@
---- 
+---
+  
+<div align="center">
 
 ### [Rankedcatalyst.com](https://rankedcatalyst.com)
 
----
+</div>
+
+ ---
 
 # Catalyst
 
