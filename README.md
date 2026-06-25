@@ -43,14 +43,14 @@ the model reasons from the thesis and the news to an *impact* (how much it would
 expected value across those scenarios (green minus red), squashed to 0 to 1, then weighted by how well
 trusted, independent news corroborates the thesis.
 
-Connect a broker (Alpaca / IBKR) to deploy a basket for real; positions reconcile back into your Φ.
-
 ## The vision
 
-A paid SaaS ETF-builder and brokerage passthrough on top of a free, public, competitive S&P-beating leaderboard. 
+A paid SaaS ETF-builder and brokerage passthrough on top of a free, public, competitive S&P-beating leaderboard.
 Anyone can post a thesis and have it tracked against the S&P for a spot on the ranked ladder.
 
-
+Premium unlocks the rest: connect a partner broker (Alpaca or IBKR) and deploy a catalyst for real, turning any thesis 
+into a useable, custom ETF.
+  
 ## Tech
 
 Python + Flask, PostgreSQL with `pgvector`. Local-first AI via [Ollama](https://ollama.com)
