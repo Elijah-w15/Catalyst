@@ -31,6 +31,11 @@ pressure can be confirmed or invalidated, which automatically re-grades every th
 
 Two numbers, kept separate on purpose.
 
+**Φ (phi)** is the real scoreboard: your basket's return vs. the same dollars in the S&P 500 over the
+same dates. Φ = 1.00 matched the market; above 1.00 beat it. Users are ranked by their average Φ
+across ELO tiers (Bronze to Masters), so the leaderboard shows who is actually beating the market, not
+who is loudest.
+
 **AI Sentiment (0 to 1)** is an expected-value function over generated scenarios. A **red team** works
 through the ways the thesis could break; a **green team** the ways it could pay off. For each scenario
 the model reasons from the thesis and the news to an *impact* (how much it would move the basket) and a
@@ -38,17 +43,13 @@ the model reasons from the thesis and the news to an *impact* (how much it would
 expected value across those scenarios (green minus red), squashed to 0 to 1, then weighted by how well
 trusted, independent news corroborates the thesis.
 
-**Φ (phi)** is the real scoreboard: your basket's return vs. the same dollars in the S&P 500 over the
-same dates. Φ = 1.00 matched the market; above 1.00 beat it. Users are ranked by their average Φ
-across ELO tiers (Bronze to Masters), so the leaderboard shows who is actually beating the market, not
-who is loudest.
-
 Connect a broker (Alpaca / IBKR) to deploy a basket for real; positions reconcile back into your Φ.
 
 ## The vision
 
-A paid ETF-builder and brokerage passthrough on top of a free, public, S&P-beating leaderboard.
-Anyone can post a thesis and prove it with results.
+A paid SaaS ETF-builder and brokerage passthrough on top of a free, public, competitive S&P-beating leaderboard. 
+Anyone can post a thesis and have it tracked against the S&P for a spot on the ranked ladder.
+
 
 ## Tech
 
