@@ -12,7 +12,7 @@
 
   ---
 
-**A social platform for stock theses with competitive performance tracking.** Post your thesis, an
+summery: **A social platform for stock theses with competitive performance tracking.** Post your thesis, an
 AI stress-tests it against the news, and every thesis is scored on its real return vs. the S&P,
 ranked by who actually beats the market.
 
