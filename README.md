@@ -3,7 +3,6 @@
 # Catalyst
 
  </div>
- ---
   
   <div align="center">
 
