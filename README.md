@@ -20,9 +20,9 @@ ranked ladder by who actually beats the market.
 
 A *catalyst* is an investment thesis published as a structured argument:
 - a **title** and your written **argument**,
-- a **basket** of tickers with weights,
-- the **pressures** you believe will move it (supply, demand, geopolitical, macro, contract),
-- the **news and sources** that bear on those pressures.
+- a **basket** of tickers impacted with weights,
+- taged **pressures** you believe will move the selected stocks (supply, demand, geopolitical, macro, contract),
+- supporting **news/sources** added by author.
 
 For each pressure the system generates *boom* and *invalidation* scenarios, and as real news lands, a
 pressure can be confirmed or invalidated, which automatically re-grades every thesis that cites it.
