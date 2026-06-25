@@ -1,4 +1,6 @@
-### [rankedcatalyst.com](https://rankedcatalyst.com)
+--- 
+
+### [Rankedcatalyst.com](https://rankedcatalyst.com)
 
 ---
 
