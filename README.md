@@ -12,9 +12,9 @@
 
   ---
 
-summery: **A social platform for stock theses with competitive performance tracking.** Post your thesis, an
-AI stress-tests it against the news, and every thesis is scored on its real return vs. the S&P,
-ranked by who actually beats the market.
+Summery: **A social platform for stock theses with competitive performance tracking.** Post your thesis, an
+AI stress-tests it against the news, and every thesis is scored on its real return vs. the S&P, with a 
+ranked ladder by who actually beats the market.
 
 ## What it is
 
