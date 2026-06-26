@@ -6,7 +6,7 @@
   
   <div align="center">
 
-  ### link: [Rankedcatalyst.com](https://rankedcatalyst.com)
+  ### link: [Rankedcatalyst.com](https://rankedcatalyst.com) *not publicly hosted yet*
 
   </div>
 
